@@ -89,7 +89,6 @@ heroku create firebase-next-recharts-covid
 ```java
 heroku config:set
 
-
 heroku config:set JWT_SECRET="secret"
 
 heroku config:set PUBLIC_URL="https://firebase-next-recharts-covid.herokuapp.com"
