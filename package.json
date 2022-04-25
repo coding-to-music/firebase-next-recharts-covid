@@ -1,13 +1,21 @@
 {
-  "name": "covid-stats",
+  "name": "firebase-next-recharts-covid",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "deploy": "git add . && git commit -m Heroku && git push && git push heroku && heroku logs --tail --remote heroku",
     "lint": "next lint",
     "cypress": "cypress open"
   },
+  "engines": {
+    "node": "16.x"
+  },
+  "cacheDirectories": [
+    "node_modules",
+    ".next/cache"
+  ],
   "dependencies": {
     "axios": "^0.24.0",
     "axios-retry": "^3.2.4",
