@@ -8,7 +8,7 @@ https://github.com/coding-to-music/firebase-next-recharts-covid
 
 https://firebase-next-recharts-covid.herokuapp.com
 
-https://firebase-next-recharts-covid.vercel.com
+https://firebase-next-recharts-covid.vercel.app
 
 by Brace Sproul https://github.com/bracesproul
 

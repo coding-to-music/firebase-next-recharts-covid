@@ -10,7 +10,7 @@
     "cypress": "cypress open"
   },
   "engines": {
-    "node": "16.x"
+    "node": "14.x"
   },
   "cacheDirectories": [
     "node_modules",
