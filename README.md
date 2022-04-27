@@ -2,7 +2,7 @@
 
 # 🚀 Javascript full-stack 🚀
 
-### React / Next / Cards / ReCharts
+### React / Next / Cards / ReCharts / Dark Theme
 
 https://github.com/coding-to-music/firebase-next-recharts-covid
 
