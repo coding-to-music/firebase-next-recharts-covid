@@ -2,7 +2,7 @@
 
 # 🚀 Javascript full-stack 🚀
 
-### React / Next / MongoDB / eCharts / Storybook / GitHub API
+### React / Next / Cards / ReCharts
 
 https://github.com/coding-to-music/firebase-next-recharts-covid
 
@@ -15,6 +15,20 @@ by Brace Sproul https://github.com/bracesproul
 http://covid-statistics-fawn.vercel.app/
 
 https://github.com/bracesproul/Covid-Statistics
+
+## Does not work on Heroku but does work on Vercel (for me)
+
+Works perfectly on Vercel but does not work on Heroku, get this message and does not show the app at the URL
+
+```java
+remote: -----> Compressing...
+remote:        Done: 300.2M
+remote: -----> Launching...
+remote:  !     Warning: Your slug size (300 MB) exceeds our soft limit (300 MB) which may affect boot time.
+remote:        Released v8
+remote:        https://firebase-next-recharts-covid.herokuapp.com/ deployed to Heroku
+remote:
+```
 
 # Environment Values
 
