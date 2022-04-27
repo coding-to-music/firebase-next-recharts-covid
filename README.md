@@ -21,6 +21,11 @@ https://github.com/bracesproul/Covid-Statistics
 next.config.js
 
 ```java
+
+These environment values are apparently not needed,
+the data displayed is static and stored in:
+/components/covid_data_history.json
+
     MONGO_URI: process.env.MONGODB_URI,
     RAPID_API_KEY: process.env.RAPID_API_KEY,
     FIREBASE_API_KEY: process.env.FIREBASE_API_KEY,
